@@ -1,0 +1,9 @@
+.container{
+    display: flex;
+    justify-content: end;
+    /* right: 200px; */
+}
+
+.id{
+    /* width: 100%; */
+}
